@@ -26,7 +26,7 @@ The system is built using core Object-Oriented Programming concepts — the `Boo
 
 ```
 ticket-booking-system/
-├── Book.java       # Contains the Booking class and the Main driver class
+├── book.java       # Contains the Booking class and the Main driver class
 └── README.md
 ```
 
@@ -40,12 +40,12 @@ ticket-booking-system/
 
 2. Compile the program:
    ```bash
-   javac Book.java
+   javac book.java
    ```
 
 3. Run the program:
    ```bash
-   java Main
+   java Booking
    ```
 
 ## 💻 Sample Run
